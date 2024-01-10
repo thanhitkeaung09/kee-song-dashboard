@@ -1,0 +1,1 @@
+export const API_URL = 'https://kswms-api.viabells.com/api/v1';

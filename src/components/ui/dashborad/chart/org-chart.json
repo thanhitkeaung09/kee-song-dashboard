@@ -1,0 +1,109 @@
+{
+  "name": "CEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "position": "CEO",
+  "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+  "children": [
+    {
+      "name": "ManagerRRRRRRRRRRRRR",
+      "position": "CEO",
+
+      "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "attributes": {
+        "department": "Production"
+      },
+      "children": [
+        {
+          "name": "Foreman",
+          "position": "CEO",
+
+          "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+          "attributes": {
+            "department": "Fabrication"
+          },
+          "children": [
+            {
+              "name": "Workers",
+              "position": "CEO",
+
+              "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+            }
+          ]
+        },
+        {
+          "name": "Foreman",
+          "position": "CEO",
+
+          "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+          "attributes": {
+            "department": "Assembly"
+          },
+          "children": [
+            {
+              "name": "Workers",
+              "position": "CEO",
+
+              "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+            },
+            {
+              "name": "Workers",
+              "position": "CEO",
+
+              "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ass Manager",
+      "position": "CEO",
+
+      "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+      "attributes": {
+        "department": "Marketing"
+      },
+      "children": [
+        {
+          "name": "Sales Officer",
+          "position": "CEO",
+
+          "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+          "attributes": {
+            "department": "A"
+          },
+          "children": [
+            {
+              "name": "Salespeople",
+              "position": "CEO",
+
+              "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+            }
+          ]
+        },
+        {
+          "name": "Sales Officer",
+          "position": "CEO",
+
+          "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+
+          "attributes": {
+            "department": "B"
+          },
+          "children": [
+            {
+              "name": "Salespeople",
+              "position": "CEO",
+
+              "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
